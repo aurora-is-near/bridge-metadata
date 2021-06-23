@@ -1,0 +1,11 @@
+{
+  "name": "bridge-metadata",
+  "version": "0.1.0",
+  "description": "Tokens listed on aurora.dev/bridge.",
+  "main": "index.js",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "logos"
+  ]
+}
